@@ -1,0 +1,12 @@
+{
+  "name": "hayat-simulatoru",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "cd client && vite",
+    "build": "cd client && vite build",
+    "preview": "cd client && vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
